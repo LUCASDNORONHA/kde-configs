@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Morrowind
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Author=valserano
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Version=1.0.5
+X-KDE-PluginInfo-Name=Morrowind
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2083780,kns://plasma-themes.knsrc/api.kde-look.org/1980674,kns://plasma-themes.knsrc/api.kde-look.org/2023421,kns://aurorae.knsrc/api.kde-look.org/2091545,kns://wallpaper.knsrc/api.kde-look.org/2091548,kns://icons.knsrc/api.kde-look.org/2001728,kns://icons.knsrc/api.kde-look.org/1990795,kns://plasmoids.knsrc/api.kde-look.org/1386465,kns://plasmoids.knsrc/api.kde-look.org/1480598,kns://plasmoids.knsrc/api.kde-look.org/1528901,kns://xcursor.knsrc/api.kde-look.org/2083798,kns://wallpaper.knsrc/api.kde-look.org/2093202,kns://plasmoids.knsrc/api.kde-look.org/2099193,kns://wallpaper.knsrc/api.kde-look.org/2099238,kns://plasmoids.knsrc/api.kde-look.org/2101527,kns://plasmoids.knsrc/api.kde-look.org/2112055,kns://plasmoids.knsrc/api.kde-look.org/2115728

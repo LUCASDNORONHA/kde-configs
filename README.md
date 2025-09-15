@@ -6,15 +6,12 @@ Este repositório contém minhas configurações personalizadas do KDE Plasma, i
 
 
 ## Estrutura do repositório
-
+```
 kde-configs/
-
 ├─ colors/ # Color schemes
-
 ├─ aurorae/ # Window decorations
-
 └─ icons/ # Icon themes
-
+```
 
 ---
 

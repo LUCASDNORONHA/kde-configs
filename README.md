@@ -62,7 +62,9 @@ Depois, abra: Configurações → Aparência → Ícones e escolha o tema deseja
 
 copie o splashscreen para  a pasta look-and-feel:
 
-```sudo mv Morrowind /usr/share/plasma/look-and-feel/```
+```bash
+sudo mv Morrowind /usr/share/plasma/look-and-feel/
+```
 
 ![T](assets/splashscreen-preview/preview.png)
 
